@@ -4,3 +4,4 @@ hello sunday
 byeeeeeeeeeeeeeeeee
 this commit is for git pull
 this commit is for git push
+git pull
